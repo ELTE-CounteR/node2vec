@@ -127,10 +127,10 @@ The implementation consists of a backend written in C++ linked to a Python API."
     ext_modules=ext_modules,
     install_requires=[
         "pybind11>=2.9.0",
-        "numpy==1.21.5",
-        "scipy==1.7.3",
+        "numpy==1.22.3",
+        "scipy==1.8.0",
         "gensim==3.8.3",
-        "networkx==2.6.3",
+        "networkx==2.8",
         "psutil==5.9.0",
     ],
     setup_requires=["pybind11>=2.4"],
