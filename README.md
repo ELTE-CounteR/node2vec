@@ -60,24 +60,14 @@ an easy-to-use Python API.
 ### Prerequisites
 
 * Linux 64 bits
-* [Python 3.7, 3.8 or 3.9](https://www.python.org/downloads/)
+* [Python 3.9](https://www.python.org/downloads/)
 * [GCC >= 8](https://gcc.gnu.org/gcc-8/changes.html) 
 
 ### Installation
 
-Python 3.7
-````bash
-pip install https://github.com/thibaudmartinez/node2vec/releases/download/v0.2.0/node2vec-0.1.0-cp37-cp37m-linux_x86_64.whl
-````
-
-Python 3.8
-````bash
-pip install https://github.com/thibaudmartinez/node2vec/releases/download/v0.2.0/node2vec-0.1.0-cp38-cp38-linux_x86_64.whl
-````
-
 Python 3.9
 ````bash
-pip install https://github.com/thibaudmartinez/node2vec/releases/download/v0.2.0/node2vec-0.1.0-cp39-cp39-linux_x86_64.whl
+pip install https://github.com/ELTE-CounteR/node2vec/releases/download/v0.2.1/node2vec-0.2.1-cp39-cp39-linux_x86_64.whl
 ````
 
 ## Usage
