@@ -328,7 +328,7 @@ more efficiency.*
 
 Clone the repository.
 ````bash
-git clone https://github.com/thibaudmartinez/node2vec.git
+git clone https://github.com/ELTE-CounteR/node2vec.git
 ````
 
 Install [pybind11](https://github.com/pybind/pybind11).
